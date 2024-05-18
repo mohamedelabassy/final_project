@@ -20,7 +20,7 @@ class HomeScreen extends StatelessWidget {
           context,
           height: 90,
           titleWidget: const Text(
-            'ZABATLY',
+            'ZABATLY ',
             style: TextStyle(
                 color: Colors.white, fontSize: 20, fontWeight: FontWeight.bold),
           ),
